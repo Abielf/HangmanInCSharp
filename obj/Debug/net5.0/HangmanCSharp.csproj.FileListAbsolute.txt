@@ -1,0 +1,16 @@
+C:\Users\Abe\Desktop\codingthangs\HangmanCSharp\bin\Debug\net5.0\HangmanCSharp.exe
+C:\Users\Abe\Desktop\codingthangs\HangmanCSharp\bin\Debug\net5.0\HangmanCSharp.deps.json
+C:\Users\Abe\Desktop\codingthangs\HangmanCSharp\bin\Debug\net5.0\HangmanCSharp.runtimeconfig.json
+C:\Users\Abe\Desktop\codingthangs\HangmanCSharp\bin\Debug\net5.0\HangmanCSharp.runtimeconfig.dev.json
+C:\Users\Abe\Desktop\codingthangs\HangmanCSharp\bin\Debug\net5.0\HangmanCSharp.dll
+C:\Users\Abe\Desktop\codingthangs\HangmanCSharp\bin\Debug\net5.0\ref\HangmanCSharp.dll
+C:\Users\Abe\Desktop\codingthangs\HangmanCSharp\bin\Debug\net5.0\HangmanCSharp.pdb
+C:\Users\Abe\Desktop\codingthangs\HangmanCSharp\obj\Debug\net5.0\HangmanCSharp.csproj.AssemblyReference.cache
+C:\Users\Abe\Desktop\codingthangs\HangmanCSharp\obj\Debug\net5.0\HangmanCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abe\Desktop\codingthangs\HangmanCSharp\obj\Debug\net5.0\HangmanCSharp.AssemblyInfoInputs.cache
+C:\Users\Abe\Desktop\codingthangs\HangmanCSharp\obj\Debug\net5.0\HangmanCSharp.AssemblyInfo.cs
+C:\Users\Abe\Desktop\codingthangs\HangmanCSharp\obj\Debug\net5.0\HangmanCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Abe\Desktop\codingthangs\HangmanCSharp\obj\Debug\net5.0\HangmanCSharp.dll
+C:\Users\Abe\Desktop\codingthangs\HangmanCSharp\obj\Debug\net5.0\ref\HangmanCSharp.dll
+C:\Users\Abe\Desktop\codingthangs\HangmanCSharp\obj\Debug\net5.0\HangmanCSharp.pdb
+C:\Users\Abe\Desktop\codingthangs\HangmanCSharp\obj\Debug\net5.0\HangmanCSharp.genruntimeconfig.cache

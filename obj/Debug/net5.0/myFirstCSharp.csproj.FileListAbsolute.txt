@@ -1,0 +1,16 @@
+C:\Users\Abe\Desktop\codingthangs\myFirstCSharp\bin\Debug\net5.0\myFirstCSharp.exe
+C:\Users\Abe\Desktop\codingthangs\myFirstCSharp\bin\Debug\net5.0\myFirstCSharp.deps.json
+C:\Users\Abe\Desktop\codingthangs\myFirstCSharp\bin\Debug\net5.0\myFirstCSharp.runtimeconfig.json
+C:\Users\Abe\Desktop\codingthangs\myFirstCSharp\bin\Debug\net5.0\myFirstCSharp.runtimeconfig.dev.json
+C:\Users\Abe\Desktop\codingthangs\myFirstCSharp\bin\Debug\net5.0\myFirstCSharp.dll
+C:\Users\Abe\Desktop\codingthangs\myFirstCSharp\bin\Debug\net5.0\ref\myFirstCSharp.dll
+C:\Users\Abe\Desktop\codingthangs\myFirstCSharp\bin\Debug\net5.0\myFirstCSharp.pdb
+C:\Users\Abe\Desktop\codingthangs\myFirstCSharp\obj\Debug\net5.0\myFirstCSharp.csproj.AssemblyReference.cache
+C:\Users\Abe\Desktop\codingthangs\myFirstCSharp\obj\Debug\net5.0\myFirstCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abe\Desktop\codingthangs\myFirstCSharp\obj\Debug\net5.0\myFirstCSharp.AssemblyInfoInputs.cache
+C:\Users\Abe\Desktop\codingthangs\myFirstCSharp\obj\Debug\net5.0\myFirstCSharp.AssemblyInfo.cs
+C:\Users\Abe\Desktop\codingthangs\myFirstCSharp\obj\Debug\net5.0\myFirstCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Abe\Desktop\codingthangs\myFirstCSharp\obj\Debug\net5.0\myFirstCSharp.dll
+C:\Users\Abe\Desktop\codingthangs\myFirstCSharp\obj\Debug\net5.0\ref\myFirstCSharp.dll
+C:\Users\Abe\Desktop\codingthangs\myFirstCSharp\obj\Debug\net5.0\myFirstCSharp.pdb
+C:\Users\Abe\Desktop\codingthangs\myFirstCSharp\obj\Debug\net5.0\myFirstCSharp.genruntimeconfig.cache

@@ -18,21 +18,30 @@ public string solution
 {get ; private set;}
 
 public Answer(){
-    solution="Not yet set";
-    Random r=new Random();
-    
-    while(solution == "Not yet set"){
-    Console.WriteLine("Choose your difficulty! Enter easy(5 letters), medium(7 letters), hard (9 letters)!");
-    choice=Console.ReadLine().ToLower();
-    if(choice=="easy"){solution = easy[r.Next(3)];}
-    else if(choice=="medium"){solution = medium[r.Next(3)];}
-    else if(choice=="hard"){solution = hard[r.Next(3)];}
-    else {Console.WriteLine("Invalid choice!");}
-    }
-
 }
 
 
+public void getChoice(){
+solution="Not yet set";
+    while(solution == "Not yet set"){
+    Console.WriteLine("Choose your difficulty! Enter easy(5 letters), medium(7 letters), hard (9 letters)!");
+    choice=Console.ReadLine().ToLower();
+    solution=validateChoice(choice);
+    }
+}
+
+public string validateChoice(string c){
+    string s;
+    Random r=new Random();
+    if(c=="easy"){s = easy[r.Next(3)];}
+    else if(c=="medium"){s = medium[r.Next(3)];}
+    else if(c=="hard"){s = hard[r.Next(3)];}
+    else {
+        Console.WriteLine("Invalid choice!");
+        s="Not yet set";
+        }
+    return s;
+}
 
 }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Abe\\Desktop\\codingthangs\\HangmanCSharp\\HangmanCSharp.csproj": {}
+    "C:\\Users\\Abe\\Desktop\\codingthangs\\HangmanCSharp\\HangmanCSharp.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Abe\\Desktop\\codingthangs\\HangmanCSharp\\HangmanCSharp.csproj": {
+    "C:\\Users\\Abe\\Desktop\\codingthangs\\HangmanCSharp\\HangmanCSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Abe\\Desktop\\codingthangs\\HangmanCSharp\\HangmanCSharp.csproj",
+        "projectUniqueName": "C:\\Users\\Abe\\Desktop\\codingthangs\\HangmanCSharp\\HangmanCSharp.csproj",
         "projectName": "HangmanCSharp",
-        "projectPath": "c:\\Users\\Abe\\Desktop\\codingthangs\\HangmanCSharp\\HangmanCSharp.csproj",
+        "projectPath": "C:\\Users\\Abe\\Desktop\\codingthangs\\HangmanCSharp\\HangmanCSharp.csproj",
         "packagesPath": "C:\\Users\\Abe\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Abe\\Desktop\\codingthangs\\HangmanCSharp\\obj\\",
+        "outputPath": "C:\\Users\\Abe\\Desktop\\codingthangs\\HangmanCSharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Abe\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -37,6 +37,20 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2-pre.12, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -13,15 +13,18 @@ namespace HangmanCSharp
         private int guessesLeft=6;
 
         //get difficulty and answer
-        private Answer a = new Answer();
+        public Answer a = new Answer();
+        
 
         //gameDone variable is 0 while game is going, changes to 1 for a win and 2 for a loss that triggers final guess
         private int gameDone=0;
 
 
         public HangmanEngine(){
-            //DEBUG CHEAT! haha, delete this once the project is complete----------------------------------------
-            Console.WriteLine(a.solution);
+            
+            a.getChoice();
+            //DEBUG CHEAT! haha, comment out this once the project is complete----------------------------------------
+            //Console.WriteLine(a.solution);
             
             //loop building display string
             for(int i=0;i<a.solution.Length;i++){
